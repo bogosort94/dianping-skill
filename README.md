@@ -59,7 +59,7 @@ python3 -m scripts shop <shop_id>
 
 ## 鸣谢
 
-本项目在架构设计上参考了 [xiaohongshu-skill](https://github.com/...)，感谢原作者提供的灵感与基础架构。
+本项目在架构设计上参考了 [xiaohongshu-skill](https://clawhub.ai/deliciousbuding/xiaohongshu-skill)，感谢原作者提供的灵感与基础架构。
 
 ## 许可证
 MIT License
