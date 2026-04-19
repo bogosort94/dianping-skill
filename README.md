@@ -57,5 +57,10 @@ python3 -m scripts shop <shop_id>
 - **频率控制**: 脚本内置了模拟人类行为的冷却时间。频繁请求可能会触发验证码或封禁。
 - **Cookie 安全**: Cookie 以 JSON 格式存储在用户家目录，请注意保护隐私。
 
+## 鸣谢
+
+本项目在架构设计上参考了 [xiaohongshu-skill](https://github.com/...)，感谢原作者提供的灵感与基础架构。
+
 ## 许可证
 MIT License
+
